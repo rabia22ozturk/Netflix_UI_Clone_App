@@ -2,7 +2,7 @@
 
 This is an app written in Kotlin language that share photo and description in Firebase Firestore
 
-<image src ="(https://github.com/rabia22ozturk/Netflix_UI_Clone_App/blob/main/netflix.jpeg)">
+<image src ="https://github.com/rabia22ozturk/Netflix_UI_Clone_App/blob/main/netflix.jpeg">
 
 ## 🛠️ Built With
 - Firebase Authentication
