@@ -1,12 +1,12 @@
-# Firebase Photo Share Sample App
+# 🎬 Netflix UI Clone App
 
-This is an app written in Kotlin language that share photo and description in Firebase Firestore
+An Android application built with Kotlin that recreates the user interface of Netflix, featuring modern UI components and smooth navigation.
 
-<image src ="https://github.com/rabia22ozturk/Netflix_UI_Clone_App/blob/main/netflix.jpeg">
+<img src="https://github.com/rabia22ozturk/Netflix_UI_Clone_App/blob/main/netflix.jpeg?raw=true" width="300" alt="Netflix UI Clone Screen" />
 
 ## 🛠️ Built With
-- Firebase Authentication
+- Kotlin
+- Android SDK
+- Jetpack Compose / XML Layouts
 - Navigation Component
-- Firebase FireStore
-- Navigation SafeArgs
-  
+- RecyclerView & CardView
